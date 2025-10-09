@@ -1,4 +1,4 @@
-# Hi, I'm Thanh 👋
+# Welcome to my Repo! 👋
 
 I'm an undergraduate student at **The University of Alabama**, studying Data Science with minors in Mathematics and Computer Science. Most of my work sits at the intersection of machine learning and scientific research, with projects spanning computer vision, NLP, and physics applications.
 
